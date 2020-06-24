@@ -1,4 +1,4 @@
-# Load Data from S3 to Redshift
+# Migrate Data from S3 to Redshift
 
 *Created by: Luca De Francesco*
 
